@@ -63,12 +63,5 @@ The `default` column was dropped due to extreme imbalance and high proportion of
 
 ---
 
-## 📁 Files
-- `notebook.ipynb`: Code and analysis
-- `README.md`: This document
-- `models/`: Trained model export (optional)
-
----
-
 ## 🧑‍💻 Author
 Suresh Venkatesan
