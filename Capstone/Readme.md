@@ -82,13 +82,6 @@ In the Indian Premier League (IPL), predicting player performance is critical fo
 
 ---
 
-## 📁 Files Included
-
-- `ipl_runs_prediction.ipynb`: Full notebook with code, EDA, modeling, and visualizations
-- `README.md`: Summary of approach and findings
-
----
-
 ## ✅ Submission Checklist
 
 - [x] Organized notebook with markdown headers
