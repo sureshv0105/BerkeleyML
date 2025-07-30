@@ -14,6 +14,14 @@ In the Indian Premier League (IPL), predicting player performance is critical fo
 
 ---
 
+## 📂 File Organization
+
+- README.md: Summary of the capstone project, including problem overview, approach, and key findings.
+- ipl_Runs_per_season_EDA_and_Visualization.ipynb: Initial notebook containing exploratory data analysis (EDA), visualizations, and feature engineering.
+- IPL_Final_Project.ipynb: Final notebook with updated baseline model, Ridge Regression, Random Forest, and XGBoost (with GridSearchCV), model comparisons, and final insights.
+---
+
+
 ## 📊 Key Results
 
 | Model             | Val MAE | Val RMSE | Val R² | Test MAE | Test RMSE | Test R² |
@@ -46,9 +54,13 @@ In the Indian Premier League (IPL), predicting player performance is critical fo
 
 ## 📈 Visualizations
 
+- Distributions, player performance, season trends.
+- Home vs Away analysis.
+- Correlation heatmaps and scatter plots.
 - Top 10 run-scorers: Actual vs Predicted
 - Residual plots (distribution, predicted vs actual)
 - Feature importance (Ridge coefficients, Random Forest, XGBoost)
+
 
 ---
 
